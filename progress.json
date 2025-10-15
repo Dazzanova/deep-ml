@@ -1,0 +1,96 @@
+{
+  "generated_at": "2026-10-20T04:25:17.313Z",
+  "items": {
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2025-10-15T10:22:10.395Z",
+      "last_pushed_at": "2025-10-15T10:22:10.395Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2025-10-15T10:35:22.728Z",
+      "last_pushed_at": "2025-10-15T10:35:22.728Z",
+      "language": "python",
+      "lines": 3
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2025-10-15T10:47:08.263Z",
+      "last_pushed_at": "2025-10-15T10:47:08.263Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2025-10-15T10:54:28.359Z",
+      "last_pushed_at": "2025-10-15T10:54:28.359Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2025-10-15T10:57:05.535Z",
+      "last_pushed_at": "2025-10-15T10:57:05.535Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2025-10-15T11:13:50.890Z",
+      "last_pushed_at": "2025-10-15T11:13:50.890Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2025-10-15T13:50:46.316Z",
+      "last_pushed_at": "2025-10-15T13:50:46.316Z",
+      "language": "python",
+      "lines": 17
+    }
+  }
+}
